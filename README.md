@@ -1,4 +1,4 @@
-## Budget Tracker
+### Budget Tracker
 
 ![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
